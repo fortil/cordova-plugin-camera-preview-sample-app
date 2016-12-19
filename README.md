@@ -3,7 +3,7 @@ cordova-plugin-camera-preview Sample Cordova App
 
 ##Install
 ```
-cordova plugin add cordova-plugin-camera-preview
+cordova plugin add https://github.com/cordova-plugin-camera-preview/cordova-plugin-camera-preview.git
 cordova platform add ios
 cordova platform add android
 ```
